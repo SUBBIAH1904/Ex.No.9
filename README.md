@@ -3,11 +3,13 @@
 ## Name : Subbiah S
 ## Register no.: 212223220111
 
-# Aim: 
+## Aim: 
 To perform the Exploration of Prompting Techniques for Video Generation
-# Algorithm: 
+
+## Algorithm: 
 Explore how various prompting techniques can be used to generate and manipulate video content (e.g., animations, visual effects, video summaries) using AI models. 
-# Procedure:
+
+## Procedure:
 Familiarize Yourself with Video Generation Models:
 Begin by exploring AI tools capable of video generation from text prompts. Popular models for video generation include:
 Runway Gen-2
@@ -35,7 +37,7 @@ Generate multiple versions of the same prompt with slight variations to compare 
 Save and Compare Outputs:
 Save different versions of the videos and compare the results to understand how different prompts produce varying styles, sequences, and video qualities.
 
-# Output:
+## Output:
 ## Why Prompting Matters
 
 A “prompt” acts as a creative instruction for the AI.
@@ -172,11 +174,12 @@ Understanding and experimenting with prompt engineering helps creators harness A
 
 ## prompt:
 ### A dog running in a park
+
 ### output:
 
 https://github.com/user-attachments/assets/720d66e3-65fc-49cb-a414-aee186f107d7
 
-# Result: 
+## Result: 
 The Prompt of the above task executed successfully
 
 
